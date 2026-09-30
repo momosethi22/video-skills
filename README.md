@@ -15,7 +15,7 @@ claude plugin install video-skills@video-skills
 ```
 Inside Claude Code, the same thing is `/plugin marketplace add momosethi22/video-skills`, then `/plugin install video-skills@video-skills`.
 
-This repo is private. Ask for access first (a GitHub collaborator invite), and make sure git on your machine is signed in to GitHub.
+The repo is public, so no GitHub access or sign-in is needed.
 
 **Get updates:**
 ```bash

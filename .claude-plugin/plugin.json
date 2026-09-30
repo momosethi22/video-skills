@@ -1,6 +1,6 @@
 {
   "name": "video-skills",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brand-agnostic playbook for story-driven voice-over videos (HyperFrames + ElevenLabs): brand intake, script, voice, motion language, sound, QA gates.",
   "author": { "name": "Momo" }
 }

@@ -22,3 +22,6 @@ Rule (in the `killer-video` skill, references/motion-language.md): text moves at
 
 Rerun: `npx hyperframes render . -f 60 -q delivery -w 2 -o test2.mp4` from a folder with hyperframes installed, then track
 the ink centroid of each lane per frame (steady steps = smooth; zero steps then 1 px jumps = ticking).
+
+The recorded runs used a bundled web font (DM Sans). The published test uses Arial so no font file ships with it.
+The jitter comes from Chrome snapping DOM text as it moves, not from a particular font.
