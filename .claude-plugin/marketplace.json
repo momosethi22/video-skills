@@ -1,0 +1,14 @@
+{
+  "name": "video-skills",
+  "description": "Claude Code skills for making brand videos: a brand-agnostic playbook for story-driven voice-over films.",
+  "owner": {
+    "name": "Momo"
+  },
+  "plugins": [
+    {
+      "name": "video-skills",
+      "source": "./",
+      "description": "Brand-agnostic playbook for story-driven voice-over videos (HyperFrames + ElevenLabs): brand intake, script, voice, motion language, sound, QA gates."
+    }
+  ]
+}
